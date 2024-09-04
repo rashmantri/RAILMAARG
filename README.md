@@ -2,6 +2,8 @@
 
 Indian Railway App This web application, developed using PHP, Bootstrap, CSS, HTML, and JavaScript, offers a user-friendly interface to access information about the Indian Railway system. Users can seamlessly search for trains, check seat availability, and obtain fare details for various routes. With proper dataset this may be a blast.
 
+## ER Diagram:
+
 ![ER Diagram](images/ER%20Diagram.png)
 
 ## Features:
